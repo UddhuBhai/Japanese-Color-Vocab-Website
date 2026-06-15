@@ -43,18 +43,6 @@ Japanese-Vocabulary/
         ├── green.png
         └── yellow.png
 
-## 🚀 Getting Started
-
-1. Clone the repository
-
-git clone https://github.com/yourusername/japanese-vocabulary.git
-
-2. Open the project folder.
-
-3. Launch `index.html` in any modern web browser.
-
-No installation or external dependencies are required.
-
 ## 🎯 Purpose
 
 This project is designed for beginners who want to learn basic Japanese vocabulary through visual association. Each color is displayed with its Japanese name and a corresponding image, making memorization easier and more engaging.
